@@ -844,6 +844,7 @@ PRICE:
 *Sources for Bitcoin price*
 
 - https://np.reddit.com/r/CryptoMarkets/comments/bto3i2
+- https://www.bitcoinpricemap.com
 
 Portfolio:
 
