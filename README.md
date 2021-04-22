@@ -241,7 +241,7 @@ If you are using a wallet that supports [replace-by-fee](https://en.bitcoin.it/w
 
 *Wallets supporting RBF*
 
-- https://np.reddit.com/r/Bitcoin/comments/b8qf4c
+- https://cointastical.medium.com/wallets-which-support-replace-by-fee-rbf-fee-bumping-5812c40bbe09
 - https://bitcoinops.org/en/compatibility/#replace-by-fee-rbf
 
 There's also the fee bumping method known as child-pays-for-parent (CPFP). If you send a transaction and the fee was too low, you can spend the "change" transaction but double up the fee required. This will cause the miners to look at both transactions as a set, and the combined fees should then be high enough to get both confirmed.  CPFP also can be done if you are the recipient of the funds.
