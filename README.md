@@ -23,7 +23,7 @@ There are physical locations where there are Bitcoin ATMs and other vending/vouc
 - https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
 - https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/locations)) <-- Identity verification/KYC
 - https://libertyx.com/a/buy/locations <-- Cashier (cash), ATM (cash or debit card), Kiosk (debit card), and from any 7-Eleven, CVS, & Rite Aid -- [20,000 locations in the U.S.](https://www.prnewswire.com/news-releases/bitcoin-on-every-block-use-cash-to-purchase-bitcoin-with-libertyx-at-20-000-retail-locations-including-major-convenience-store-and-pharmacy-chains-301081111.html)
-- https://np.reddit.com/r/Bitcoin/comments/dabf2m <-- Some will require identify verification/KYC, but not all will.
+- https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625 <-- Some will require identify verification/KYC, but not all will.
 
 Otherwise, an in-person cash trade or an online trade using a P2P trading exchange may possibly be your next best option:
 
@@ -1167,7 +1167,7 @@ GIFTING:
 - OpenDime
 - https://www.cardwallet.com/en/ho-ho-hodl
 - https://www.balletcrypto.com
-- Vouchers (see the Vouchers section from [this list](https://np.reddit.com/r/Bitcoin/comments/dabf2m)
+- Vouchers (see the Vouchers section from [this list](https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625)
 
 The reason gifting of bitcoin isn't easier is because "gifts" are considered "bearer instruments" and thus are targeted by the regulators. We had the most fantastic social giving service, Bottle Pay, until it had to shutter at the end of 2019, due to upcoming AML regulations (AMLD5, specifically). With it you could send to your friend via Twitter, Reddit, Instagram, Twitch, Youtube, etc. It was easy and awesome. But it is no longer.
 
@@ -1213,7 +1213,7 @@ Source:
 
 *List of Physical Stores where you can Buy or Sell bitcoin*
 
-- https://np.reddit.com/r/Bitcoin/comments/dabf2m <-- Some will require identify verification/KYC, but not all will.
+- https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625 <-- Some will require identify verification/KYC, but not all will.
 
 *************************************************************************
 TELEGRAM:
