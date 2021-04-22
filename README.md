@@ -659,6 +659,7 @@ PAPER WALLETS:
 - https://blog.trezor.io/paper-wallets-a-relic-of-the-past-1f711ba82b8c
 - https://doc.satoshilabs.com/trezor-faq/_images/compared_to.png
 - https://en.bitcoin.it/wiki/Address_reuse
+- https://np.reddit.com/r/Bitcoin/comments/670zhy
 
 BRAIN WALLET:
 
