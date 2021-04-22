@@ -706,7 +706,7 @@ If you earn in bitcoin, you will prefer to spend in bitcoin (versus going throug
 
 *How you could end up with bitcoin even though you didn't buy any*
 
-- https://np.reddit.com/r/Bitcoin/comments/cajusc
+- https://cointastical.medium.com/how-you-could-end-up-with-bitcoin-even-though-you-didnt-buy-any-4d1780436d66
 
 *************************************************************************
 MINING:
