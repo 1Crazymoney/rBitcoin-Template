@@ -544,6 +544,7 @@ Generally recommended wallets are:
 - https://www.lopp.net/bitcoin-information/recommended-wallets.html
 - https://bitcoinwallet.guide/compare
 - https://walletscrutiny.com/#tableofwallets [[Discuss](https://np.reddit.com/r/Bitcoin/comments/epd7gd)]
+- https://bitcoinmagazine.com/guides/bitcoin-wallets-for-beginners-part-one-self-custody-and-avoiding-kyc
 - https://bitcoin-only.com/#wallets
 - https://walletmatrix.app/matrix
 - https://blockgeeks.com/guides/7-of-the-best-bitcoin-wallets-2019-blockgeeks <-- Mostly agree, except for the paper wallet method.
