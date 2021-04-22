@@ -29,7 +29,7 @@ Otherwise, an in-person cash trade or an online trade using a P2P trading exchan
 
 *P2P Trading exchanges*
 
-- [Person-to-person (P2P) Trading Exchanges](https://np.reddit.com/r/Bitcoin/comments/dyclf8)
+- [Person-to-person (P2P) Trading Exchanges](https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
 - https://exchangerates.pro <-- Choose country and/or Payment Method
 
 Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, r/GiftCardExchange, and r/GCTrading).
@@ -87,7 +87,7 @@ There are various payment methods for P2P trading, such as buyer deposits cash i
 
 *P2P Trading Exchanges*
 
-- https://np.reddit.com/r/Bitcoin/comments/dyclf8
+- https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
 Otherwise, with traditional exchanges your options differ vastly based on what country you are in (i.e., what currency you use).   And how long to get KYC verified if needed, before you can withdraw your cash, etc.
 
@@ -127,7 +127,7 @@ But you can check, maybe there is a seller on a P2P trading exchange willing to 
 
 *P2P Trading exchanges*
 
-- https://np.reddit.com/r/Bitcoin/comments/dyclf8
+- https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
 For selling bitcoin for PayPal, following are some options. Note, this is simply a list, not an endorsement.
 
@@ -149,7 +149,7 @@ There are traders on P2P exchanges who will pay you using PayPal. You want to be
 
 *P2P Trading exchanges*
 
-- https://np.reddit.com/r/Bitcoin/comments/dyclf8
+- https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
 *************************************************************************
 CASH:
