@@ -252,6 +252,7 @@ RBF Charts:
 
 - https://p2sh.info/dashboard/db/replace-by-fee?orgId=1&from=now-1y&to=now
 - https://www.mempool.observer/#transaction-stats
+- https://transactionfee.info/charts/transactions-signaling-explicit-rbf
 
 *************************************************************************
 SPEND:
