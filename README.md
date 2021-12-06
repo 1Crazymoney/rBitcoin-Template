@@ -1216,6 +1216,10 @@ UK physical locations and vouchers:
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵)
 - [Flexepin](https://www.flexepin.com/sales_outlet_finder) (Debit card or 💵) ([FastBitcoins](https://fastbitcoins.com/voucher))
 
+Singapore:
+
+- https://qjawe.medium.com/buying-bitcoin-in-singapore-a15dabd2346c
+
 Source:
 
 *List of Physical Stores where you can Buy or Sell bitcoin*
