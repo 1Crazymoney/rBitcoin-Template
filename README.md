@@ -199,6 +199,7 @@ LIGHTNING NETWORK:
 
 Faucets:
 
+- https://lightningnetworkstores.com/faucet
 - https://lightning-faucet.com
 - https://fixedfloat.com/lightning-faucet <-- Once only, per Twitter account
 
