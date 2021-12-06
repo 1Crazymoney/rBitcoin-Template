@@ -1058,6 +1058,7 @@ Countdown:
 Issuance:
 
 - https://www.blockchain.com/charts/total-bitcoins?scale=1&timespan=all
+- https://satoshisperperson.com
 
 Controlled supply:
 
