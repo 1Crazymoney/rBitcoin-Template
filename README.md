@@ -48,11 +48,12 @@ There are two varieties:
 - where the [gig worker](https://np.reddit.com/r/Bitcoin/comments/ce95xt) (e.g. Uber) or employee [signs up with BitWage](https://www.bitwage.com/for-individuals) to receive a virtual bank account number from BitWage, and that is the bank account where the employer's bank transfer sends the employee's pay on payday
 
 Along the same lines as BitWage, there are additional wages-to-bitcoin services:
-[Pay Me in Bitcoin with Strike](https://jimmymow.medium.com/announcing-pay-me-in-bitcoin-455f4fa0a0e4),
-[Cash App Direct Deposit](https://cash.app/help/us/en-us/1113-direct-deposit),
-[OnJuno](https://onjuno.com),
-Coinbase [[announcement]](https://www.cnbc.com/2021/10/20/-coinbase-will-allow-people-to-put-part-of-their-paychecks-in-crypto.html), and
-[Get Paid In Bitcoin](https://getpaidinbitcoin.com.au/) [Australia]
+
+- [Pay Me in Bitcoin with Strike](https://jimmymow.medium.com/announcing-pay-me-in-bitcoin-455f4fa0a0e4)
+- [Cash App Direct Deposit](https://cash.app/help/us/en-us/1113-direct-deposit)
+- [OnJuno](https://onjuno.com)
+- Coinbase [[announcement]](https://www.cnbc.com/2021/10/20/-coinbase-will-allow-people-to-put-part-of-their-paychecks-in-crypto.html)
+- [Get Paid In Bitcoin](https://getpaidinbitcoin.com.au/) [Australia]
 
 For those paying with EUR or CHF, Bity can be used without Id Verification/KYC (beyond phone number):
 
