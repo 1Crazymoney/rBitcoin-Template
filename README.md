@@ -51,6 +51,7 @@ Along the same lines as BitWage, there are additional wages-to-bitcoin services:
 
 - [Pay Me in Bitcoin with Strike](https://jimmymow.medium.com/announcing-pay-me-in-bitcoin-455f4fa0a0e4)
 - [Cash App Direct Deposit](https://cash.app/help/us/en-us/1113-direct-deposit)
+- [Hedge](https://gethedge.io)
 - [OnJuno](https://onjuno.com)
 - Coinbase [[announcement]](https://www.cnbc.com/2021/10/20/-coinbase-will-allow-people-to-put-part-of-their-paychecks-in-crypto.html)
 - [Get Paid In Bitcoin](https://getpaidinbitcoin.com.au/) [Australia]
