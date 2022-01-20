@@ -507,6 +507,36 @@ TAXES:
 - https://cryptotrader.tax/blog/cryptocurrency-tax-calculations-fifo-and-lifo-costing-methods-explained
 - https://medium.com/coinmonks/best-crypto-tax-tool-for-my-money-72d4b430816b
 
+Every time you sell (or spend) bitcoin, a taxable event occurs:
+
+- https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
+
+Most Americans don't even earn enough such that the tax rate on long term capital gains is above 0.0%:
+
+- https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
+- https://www.greenbushfinancial.com/how-to-pay-0-tax-on-capital-gains-income
+
+Compliance on reporting of capital gains is horribly low, and the IRS know this  -- so they are actively trying to improve the reporting compliance rate:
+
+- https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
+- https://www.greenbushfinancial.com/how-to-pay-0-tax-on-capital-gains-income
+- https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
+- https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
+- https://www.coindesk.com/crypto-tax-2021-guide
+- https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
+- https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
+- https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
+- https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
+- https://www.cointracker.io/blog/what-to-do-when-you-receive-a-cp2000-notice-from-the-irs-for-your-cryptocurrency-taxes
+- https://cryptotrader.tax/blog/cryptocurrency-tax-calculations-fifo-and-lifo-costing-methods-explained
+- https://medium.com/coinmonks/best-crypto-tax-tool-for-my-money-72d4b430816b
+- https://www.forbes.com/sites/shehanchandrasekera/2020/09/17/what-crypto-taxpayers-need-to-know-about-fifo-lifo-hifo-specific-id
+- https://www.coindesk.com/how-to-minimize-your-crypto-taxes
+
+*Bitcoin and U.S. Taxes - Practical Considerations*
+
+- https://np.reddit.com/r/Bitcoin/comments/k0djiy
+
 CoinTracking:
 
 - https://cointracking.info
