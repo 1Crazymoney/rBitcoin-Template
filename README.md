@@ -1161,6 +1161,7 @@ RESOURCES:
 - https://lightning.how
 - https://ln.guide
 - https://www.theblockcrypto.com/2019/02/06/the-blocks-list-of-crypto-research-tools-and-resources/
+- https://bitcoinmagazine.com/articles/cantillon-effect-2-0-bitcoin-is-the-worlds-first-truly-fair-money
 - https://learnmeabitcoin.com
 - https://en.bitcoin.it
 
