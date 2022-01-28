@@ -12,11 +12,11 @@ If you are looking to Buy bitcoin with fiat money, then the methods available wi
 - How soon do you need access to the proceeds?
 - Is financial privacy important?
 
-First time buyers may like the convenience of an online store that sells bitcoin and accepts debit and/or credit card. I do not know which ones require ID verification/KYC beyond those marked as such. (e.g., [Bitsell X](https://bitsellx.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO-KYC**, requires browser extension], [CoinCorner](https://coincorner.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO-KYC** when £900 or less, not available in U.S.], [CEX.io](https://CEX.io.com), [Coinify](https://www.coinify.com), [Paybis](https://paybis.com), [Jubiter](https://app.jubiter.com/neworder/buy), [Bittylicious](https://bittylicious.com), [BitIreland](https://bitireland.ie), [Kuna.io Money](https://money.kuna.io), [LiteBit.eu](https://www.litebit.eu/en/buy), [Switchere](https://switchere.com), [Conio.com](https://conio.com) App, [CryptoVoucher.io](https://cryptovoucher.io), [Cash App](https://cash.app/bitcoin) and CoinMama [KYC]). You can buy BTC on Cash App without ID but you won't be able to withdraw them until you are KYC verified.
+First time buyers may like the convenience of an online store that sells bitcoin and accepts debit and/or credit card. I do not know which ones require ID verification/KYC beyond those marked as such. (e.g., [Bitsell X](https://bitsellx.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO KYC**, requires browser extension], [CoinCorner](https://coincorner.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO KYC** when £900 or less, not available in U.S.], [CEX.io](https://CEX.io.com), [Coinify](https://www.coinify.com), [Paybis](https://paybis.com), [Jubiter](https://app.jubiter.com/neworder/buy), [Bittylicious](https://bittylicious.com), [BitIreland](https://bitireland.ie), [Kuna.io Money](https://money.kuna.io), [LiteBit.eu](https://www.litebit.eu/en/buy), [Switchere](https://switchere.com), [Conio.com](https://conio.com) App, [CryptoVoucher.io](https://cryptovoucher.io), [Cash App](https://cash.app/bitcoin) and CoinMama [KYC]). You can buy BTC on Cash App without ID but you won't be able to withdraw them until you are KYC verified.
 
-You can purchase online using a No-KYC online store, paying by depositing cash in a bank account or through Moneygram/Western Union:
+You can purchase online using a [**NO KYC**] online store, paying by depositing cash in a bank account or through Moneygram/Western Union:
 
-- [BitQuick QuickBuy](https://www.bitquick.co/quick-buy) [**NO-KYC** (when trx amount is under $400)]
+- [BitQuick QuickBuy](https://www.bitquick.co/quick-buy) [**NO KYC** (when trx amount is under $400)]
 
 There are physical locations where there are Bitcoin ATMs and other vending/voucher methods.  For example, in the U.S. there is:
 
@@ -63,21 +63,21 @@ For those paying with EUR or CHF, Bity can be used without Id Verification/KYC (
 
 For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verification/KYC:
 
-- https://buy.ramp.network [**NO-KYC**] <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
+- https://buy.ramp.network [**NO KYC**] <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 
 Strike app lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
 - https://strike.zaphq.io
 - https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984
 
-Great list of No-KYC Exchanges:
+Great list of [**NO KYC**] Exchanges:
 
 - https://kycnot.me
 - https://bitcoinqna.github.io/noKYConly
 
 With a P2P exchange, you can create a Buy ad and set your own price (e.g., 4% below spot).  You are competing with other buyers, so if you want to find a seller you'll have to offer a fair price, but most trades there that happen from a seller taking a BUY offer result in the buyer (i.e., you) paying below spot.  That's sometimes referred to as "negative fees'.  If you are needing your coins sooner, you can always take a seller's ad, but in that instance you are the one paying the premium, and the seller benefits from "negative fees".
 
-There are No-KYC payment methods: In-person cash trade, cash deposited in the seller's bank account, [cash-in-the-mail](https://np.reddit.com/r/Bitcoin/comments/cc9izx), [postal money order](https://np.reddit.com/r/Bitcoin/comments/cc9izx/cash_by_mail_an_underutilized_way_to_buy_bitcoin/etlbuq1), and prepaid gift card.  There are sellers on the P2P exchanges who accept these payment methods.
+There are [**NO KYC**] payment methods: In-person cash trade, cash deposited in the seller's bank account, [cash-in-the-mail](https://np.reddit.com/r/Bitcoin/comments/cc9izx), [postal money order](https://np.reddit.com/r/Bitcoin/comments/cc9izx/cash_by_mail_an_underutilized_way_to_buy_bitcoin/etlbuq1), and prepaid gift card.  There are sellers on the P2P exchanges who accept these payment methods.
 
 Most of these payment methods will require identity verification / KYC though.
 
@@ -106,7 +106,7 @@ And finally, some Bitcoin ATMs are not just bitcoin vending services, but also a
 
 - https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
 
-Great list of No-KYC Exchanges:
+Great list of [**NO KYC**] Exchanges:
 
 - https://kycnot.me
 - https://bitcoinqna.github.io/noKYConly
@@ -195,7 +195,7 @@ Exchange ratings:
 
 INSTANT EXCHANGES:
 
-*No-KYC Instant Exchanges*
+*NO KYC Instant Exchanges*
 
 - https://np.reddit.com/r/Bitcoin/comments/cd1fr8
 
@@ -364,7 +364,7 @@ Bitcoin payment processing services for online/e-commerce:
 - https://lightninghardware.com/payment-processors ([⚡](https://lightningnetworkstores.com/wallets))
 - https://gilded.finance/blog/crypto-invoicing-with-stablecoins [Altcoin affiliated]
 - https://www.coincorner.com/Checkout
-- https://np.reddit.com/r/Bitcoin/comments/elsqu1 <-- All "No-KYC" methods
+- https://np.reddit.com/r/Bitcoin/comments/elsqu1 <-- All [**NO KYC**] methods
 
 For point-of-sale (POS):
 
@@ -920,7 +920,7 @@ LENDING:
 - https://news.crypterium.com/crypto-lending-platforms
 - https://medium.com/coinmonks/blockfi-vs-celsius-vs-hodlnaut-8a1cc8c26630
 - https://www.cryptovantage.com/best-crypto-lending
-- https://Lend.HodlHodl.com [**NO-KYC**]
+- https://Lend.HodlHodl.com [**NO KYC**]
 - https://www.danheld.com/blog/2020/9/17/yield-farming-with-bitcoin
 - https://decrypt.co/46926/lightning-labs-defi-bitcoin-lightning-pool | [Source](https://github.com/lightninglabs/pool)
 
@@ -995,8 +995,8 @@ DERIVATIVES:
 LEVERAGE:
 
 - https://exchangewar.info <-- See the "Features" column to the right for leverage levels.
-- https://www.duedex.com/trade/BTCUSD [**NO-KYC**]
-- https://LNMarkets.com [**NO-KYC**] ([⚡](https://lightningnetworkstores.com/wallets))
+- https://www.duedex.com/trade/BTCUSD [**NO KYC**]
+- https://LNMarkets.com [**NO KYC**] ([⚡](https://lightningnetworkstores.com/wallets))
 
 "Invest":
 
