@@ -907,50 +907,9 @@ Sentiment:
 *************************************************************************
 INVESTING:
 
-Nobody knows the future price.
+*Dollar Cost Averaging. The answer to the question “Is now a good time to buy Bitcoin?”*
 
-What you could do is follow Dollar Cost Averaging. That's where you spread your buys over a certain period of time. e..g, 6 months, you buy $50 each month, to get you investing your target of $300 (for an example).
-
-If the exchange rate goes down from here, great, your average price for your position will be less than ~$25K per BTC. If the exchange rate goes up from here, great, you got at least some at ~$25K per, which you wouldn't have gotten had you sat on the $300 for six months and bought all at once then.
-
-There's still the risk of it going down after you purchase, but this strategy is one that works for many who struggle with FOMO or who stress over trying to time the market.
-
-- https://en.wikipedia.org/wiki/Dollar_cost_averaging
-- https://dcabtc.com
-- https://www.costavg.com
-- https://www.bitcoindollarcostaverage.com
-- https://dcatracker.com
-- [Swan Bitcoin](https://www.swanbitcoin.com) <-- Recurring purchasing (US)
-- [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
-- [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (US)
-- [Cash App](https://cash.app/help/us/en-us/3109-schedule-automatic-purchases) <-- Recurring purchasing (US)
-- [Gemini](https://support.gemini.com/hc/en-us/articles/360020827411-What-is-a-recurring-buy-) <-- Recurring purchasing (US)
-- [Voyager](https://support.investvoyager.com/support/solutions/articles/43000575793-how-to-set-up-a-recurring-buy-)  <-- Recurring purchasing (US only, for now)
-- [Binance.us](https://support.binance.us/hc/en-us/articles/360049655933-Recurring-Buy-FAQs) <-- Recurring purchasing (US)
-- [Relai](https://relai.ch) [**NO-KYC**] <-- Recurring purchasing (EU, and CH)
-- [StackinSat](https://stackinsat.com) <-- Recurring purchasing (EU)
-- [xSats](https://xsats.com) <-- Recurring purchasing (EU, UK)
-- [Coinfloor](https://coinfloor.co.uk/hodl) <-- Recurring purchasing (UK)
-- [Mt. Pelerin](https://www.mtpelerin.com) <-- Recurring purchasing (UK, EU, CH)
-- [Luno](https://www.luno.com/blog/en/post/introducing-repeat-buy) <-- Recurring purchasing (UK, EU (SEPA), AU, SG, ID, MY, ZA, NG, UG, ZM)
-- [Uphold](https://support.uphold.com/hc/en-us/articles/360046337091-AutoPilot-Automated-Transactions) <-- Recurring purchasing
-- [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
-- [Amber](https://getamber.io) <-- Recurring purchasing (AU)
-- [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
-- [BTC Markets](https://www.btcmarkets.net) <-- Recurring buying using BPay (AU)
-- [Bitaroo](https://bitaroo.com.au) <-- Recurring purchasing (AU)
-- [Ice3X](https://ice3x.co.za/dca-repeat-orders) <-- Recurring purchasing (ZA)
-- [BitNob](https://bitnob.com) <-- Recurring purchasing (NG)
-- [Bitdroplet](https://bitdroplet.com) <-- Recurring purchasing (IN, EU, UK, US), funding methods INR or USDT.
-- [Autocoin](https://github.com/Fittiboy/autocoin#autocoin) <-- DIY DCA on BitSTAMP
-- [CoinDCA](https://coindca.com/faq) <-- DCA on your Coinbase Pro account using this web-based agent
-- [GDax Bot](https://github.com/kdmukai/gdax_bot) ,_ DIY DCA on Coinbase Pro using this web-based agent
-- [DeltaBadger](https://deltabadger.com) <-- DCA on your Kraken, Bitbay or Binance account using this web-based agent
-- Using BitWage, either [employer signs up with BitWage](https://www.bitwage.com/for-companies), or [gig worker/employee signs up with BitWage](https://www.bitwage.com/for-individuals)
-
-More info:
-
-- https://medium.com/bull-bitcoin/bull-bitcoins-dollar-cost-averaging-tool-for-canadians-the-right-time-to-buy-bitcoin-is-every-day-82a992ca22c1
+- https://cointastical.medium.com/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0
 
 LENDING:
 
