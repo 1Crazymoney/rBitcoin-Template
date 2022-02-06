@@ -410,7 +410,6 @@ Online markets:
 
 - [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitify](https://bitify.com)
-- [CoinMall](https://www.coinmall.com)
 
 *************************************************************************
 BILL PAY:
