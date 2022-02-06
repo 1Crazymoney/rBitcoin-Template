@@ -408,7 +408,6 @@ Bitpay translators and merchant alternatives directory:
 
 Online markets:
 
-- [OpenBazaar](https://OpenBazaar.com)
 - [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitify](https://bitify.com)
 - [CoinMall](https://www.coinmall.com)
