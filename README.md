@@ -27,7 +27,7 @@ There are physical locations where there are Bitcoin ATMs and other vending/vouc
 
 Otherwise, an in-person cash trade or an online trade using a P2P trading exchange may possibly be your next best option:
 
-*P2P Trading exchanges*
+*P2P Trading Platforms*
 
 - [Person-to-person (P2P) Trading Exchanges](https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
 - https://exchangerates.pro <-- Choose country and/or Payment Method
@@ -95,7 +95,7 @@ If you are looking to Sell bitcoin for fiat money, then the methods available wi
 
 There are various payment methods for P2P trading, such as buyer deposits cash in your bank account, or transfers the funds to your account.  Know that there are risks in being defrauded when using bank transactions for Bitcoin trading, but if your buyer has a long and excellent trust history the risks are much lower.
 
-*P2P Trading Exchanges*
+*P2P Trading Platforms*
 
 - https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
@@ -135,7 +135,7 @@ There's also a trick where you do a PayPal Instant withdraw to the Virtual VISA 
 
 But you can check, maybe there is a seller on a P2P trading exchange willing to do a trade with you:
 
-*P2P Trading exchanges*
+*P2P Trading Platforms*
 
 - https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
@@ -157,7 +157,7 @@ Coinbase --> PayPal --> Bank Debit Card:
 
 There are traders on P2P exchanges who will pay you using PayPal. You want to be careful though to select only traders who have a good rating, as after the trade they can reverse their payment.
 
-*P2P Trading exchanges*
+*P2P Trading Platforms*
 
 - https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e
 
