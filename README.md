@@ -29,7 +29,7 @@ Otherwise, an in-person cash trade or an online trade using a P2P trading platfo
 
 *P2P Trading Platforms*
 
-- [Person-to-person (P2P) Trading Platforms](https://cointastical.github.com/P2P-Trading-Exchanges)
+- [Person-to-person (P2P) Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 - https://exchangerates.pro <-- Choose country and/or Payment Method
 
 Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, r/GiftCardExchange, and r/GCTrading).
@@ -137,7 +137,7 @@ But you can check, maybe there is a seller on a P2P trading platform willing to 
 
 *P2P Trading Platforms*
 
-- https://cointastical.github.com/P2P-Trading-Exchanges
+- https://cointastical.github.io/P2P-Trading-Exchanges
 
 For selling bitcoin for PayPal, following are some options. Note, this is simply a list, not an endorsement.
 
@@ -159,7 +159,7 @@ There are traders on P2P exchanges who will pay you using PayPal. You want to be
 
 *P2P Trading Platforms*
 
-- https://cointastical.github.com/P2P-Trading-Exchanges
+- https://cointastical.github.io/P2P-Trading-Exchanges
 
 *************************************************************************
 CASH:
