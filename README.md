@@ -427,6 +427,7 @@ BILL PAY:
 - https://coins.co.th - pay bills Thailand - TH
 - https://livingroomofsatoshi.com ([⚡](https://lightningnetworkstores.com/wallets)) - AUS
 - https://bity.com/products/crypto-online-bill-pay
+- https://gilded.finance - bill clients, pay bills, in bitcoin
 - https://bitwage.com - receive salary in BTC
 - https://paidbycoins.eu (coming soon)
 
