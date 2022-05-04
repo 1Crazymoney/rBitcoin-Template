@@ -435,11 +435,6 @@ Source:
 
 - https://np.reddit.com/r/Bitcoin/comments/6oti7n
 
-Lamium:
-
-- https://lamium.io
-- https://np.reddit.com/r/Bitcoin/comments/bv19c3
-
 *************************************************************************
 SCAM OR NO?:
 
