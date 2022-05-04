@@ -414,7 +414,7 @@ Online markets:
 *************************************************************************
 BILL PAY:
 
-- https://piixpay.com - pay bills - EU
+- https://swapin.com (formerly PiixPay) - pay bills - EU
 - https://bitbill.eu - pay bills - EU
 - https://swap.ly - pay bills in PL
 - https://bitwa.la - buy BTC, receive wages, pay bills - EU, maybe CA, US, MEX
