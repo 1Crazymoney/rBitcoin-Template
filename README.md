@@ -29,7 +29,7 @@ Otherwise, an in-person cash trade or an online trade using a P2P trading exchan
 
 *P2P Trading Platforms*
 
-- [Person-to-person (P2P) Trading Exchanges](https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
+- [Person-to-person (P2P) Trading Platforms](https://cointastical.medium.com/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
 - https://exchangerates.pro <-- Choose country and/or Payment Method
 
 Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, r/GiftCardExchange, and r/GCTrading).
