@@ -207,6 +207,11 @@ LIGHTNING NETWORK:
 - https://cointastical.medium.com/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc
 - https://wiki.ion.radar.tech/tutorials/lightning-exchanges
 
+*Payment Processing*
+- https://cypherpunkpay.org [⚡](https://lightningnetworkstores.com/wallets)
+- https://github.com/CypherToad/LightningStrike [⚡](https://lightningnetworkstores.com/wallets)
+- https://satsale.org [⚡](https://lightningnetworkstores.com/wallets)
+
 Faucets:
 
 - https://lightningnetworkstores.com/faucet
