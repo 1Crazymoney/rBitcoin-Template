@@ -25,7 +25,7 @@ There are physical locations where there are Bitcoin ATMs and other vending/vouc
 - https://libertyx.com/a/buy/locations <-- Cashier (cash), ATM (cash or debit card), Kiosk (debit card), and from any 7-Eleven, CVS, & Rite Aid -- [20,000 locations in the U.S.](https://www.prnewswire.com/news-releases/bitcoin-on-every-block-use-cash-to-purchase-bitcoin-with-libertyx-at-20-000-retail-locations-including-major-convenience-store-and-pharmacy-chains-301081111.html)
 - https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625 <-- Some will require identify verification/KYC, but not all will.
 
-Otherwise, an in-person cash trade or an online trade using a P2P trading exchange may possibly be your next best option:
+Otherwise, an in-person cash trade or an online trade using a P2P trading platform may possibly be your next best option:
 
 *P2P Trading Platforms*
 
@@ -133,7 +133,7 @@ There's also a trick where you do a PayPal Instant withdraw to the Virtual VISA 
 
 - https://www.smartbitcoininvestments.com/buy-bitcoin-with-paypal
 
-But you can check, maybe there is a seller on a P2P trading exchange willing to do a trade with you:
+But you can check, maybe there is a seller on a P2P trading platform willing to do a trade with you:
 
 *P2P Trading Platforms*
 
