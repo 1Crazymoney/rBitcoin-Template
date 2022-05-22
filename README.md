@@ -440,6 +440,10 @@ Source:
 
 - https://np.reddit.com/r/Bitcoin/comments/6oti7n
 
+Also:
+
+- https://satzap.io
+
 *************************************************************************
 SCAM OR NO?:
 
