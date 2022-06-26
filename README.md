@@ -1135,17 +1135,18 @@ And here's how they do it again.
 - https://np.reddit.com/r/Bitcoin/comments/cftebx/the_software_distributed_in_the_recent_security/euckd7p
 
 *************************************************************************
-INHERITANCE:  <-- This is a topic that needs better solutions.
+INHERITANCE:
 
+- https://blog.keys.casa/casa-covenant-bitcoin-inheritance-launches-today
+- https://unchained.com/blog/how-to-inheritance-plan-unchained-vault
+- https://mycitadel.io
 - https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
 - https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116 <--Pamela Law's book
 - https://blog.lopp.net/fifteen-men-on-a-dead-man-s-switch
-- https://kirobo.io/introducing-our-inheritance-planning-solution/
+- https://www.kirobo.io/inheritance-button-2
 - https://np.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v
 - https://github.com/lacksfish/insure-gui <-- Not production-ready
 - https://github.com/fresheneesz/TordlWalletProtocols
-
-Via multisig: Casa, and Unchained Capital
 
 *************************************************************************
 RESOURCES:
